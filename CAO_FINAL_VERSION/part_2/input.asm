@@ -1,0 +1,3 @@
+MOVC R0,#3
+ADD R0,R0,R0
+HALT 
