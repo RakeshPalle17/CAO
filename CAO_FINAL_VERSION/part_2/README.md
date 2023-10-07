@@ -1,5 +1,5 @@
 # APEX Pipeline Simulator v2.0
-A template for 5 Stage APEX In-order Pipeline
+A template for 5 Stage APEX In-order Pipeline with forwarding logic
 
 ## Notes:
 
